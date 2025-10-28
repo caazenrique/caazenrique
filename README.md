@@ -3,12 +3,12 @@
 **`Data Analyst and PSPO I`**
 <br>
 <br>
-🇵 Profissional de Análise de Dados e Metodologias Ágeis, com mais de 5 anos de experiência em mapeamento de processos, análise de dados para negócios e gestão de produtos digitais. Atua na coleta, interpretação e aplicação de dados para tomada de decisão estratégica e gestão ágil de equipes. Possui domínio em SCRUM, SQL e Python para análise de dados, além de experiência com BigQuery, Excel, Tableau, Matplotlib e Seaborn, e forte capacidade de gestão de stakeholders e liderança de times multidisciplinares.
+PT Profissional de Análise de Dados e Metodologias Ágeis, com mais de 5 anos de experiência em mapeamento de processos, análise de dados para negócios e gestão de produtos digitais. Atua na coleta, interpretação e aplicação de dados para tomada de decisão estratégica e gestão ágil de equipes. Possui domínio em SCRUM, SQL e Python para análise de dados, além de experiência com BigQuery, Excel, Tableau, Matplotlib e Seaborn, e forte capacidade de gestão de stakeholders e liderança de times multidisciplinares.
 <br>
 <br>
 
 
-🇬 Data Analyst and Agile Methodologies professional with over 5 years of experience in process mapping, business data analysis, and digital product management. Skilled in collecting, interpreting, and applying data for strategic decision-making and agile team management. Proficient in SCRUM, SQL, and Python for data analysis, with hands-on experience using BigQuery, Excel, Tableau, Matplotlib, and Seaborn, along with strong stakeholder management and team leadership abilities.
+EN Data Analyst and Agile Methodologies professional with over 5 years of experience in process mapping, business data analysis, and digital product management. Skilled in collecting, interpreting, and applying data for strategic decision-making and agile team management. Proficient in SCRUM, SQL, and Python for data analysis, with hands-on experience using BigQuery, Excel, Tableau, Matplotlib, and Seaborn, along with strong stakeholder management and team leadership abilities.
 <br>
 <br>
 
