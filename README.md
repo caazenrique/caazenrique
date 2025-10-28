@@ -17,7 +17,6 @@ EN Data Analyst and Agile Methodologies professional with over 5 years of experi
 
 ---
 <br>
-
 ###Linguagens e Ferramentas
 
 <img 
