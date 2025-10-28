@@ -17,6 +17,7 @@ EN Data Analyst and Agile Methodologies professional with over 5 years of experi
 
 ---
 <br>
+
 ###Linguagens e Ferramentas
 
 <img 
@@ -43,7 +44,6 @@ EN Data Analyst and Agile Methodologies professional with over 5 years of experi
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" 
 />
-
 <img 
     align="left" 
     alt="Python" 
